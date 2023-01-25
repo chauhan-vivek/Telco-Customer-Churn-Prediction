@@ -40,11 +40,13 @@ This project focusses on doing descriptive analysis and creating rich visualizat
   </a>
 </div>
 
+
 <div align="center">
   <a>
     <img src="readme-assets/monthly_charges_and_total_charges_tenure_group_attrition.PNG" alt="Logo" width="480" height="480">
   </a>
 </div>
+
 
 <div align="center">
   <a>
