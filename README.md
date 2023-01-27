@@ -10,7 +10,7 @@ Telco Customer Churn Analysis
 
 Analysis of IBM telco-customer churn.
 
-This project focusses on doing descriptive analysis and creating rich visualization to be presented to stakeholders. IT further creates a simple logistic regression model with statistical significance to classify customers into churn and non-churn groups. The insights generated from this EDA are used to create data driven strategic recommendations to retain customers who are potential candidate to churn in coming month. 
+This project focusses on doing descriptive analysis and creating rich visualization to be presented to stakeholders. It further creates a simple logistic regression model with statistical significance to classify customers into churn and non-churn groups. The insights generated from this EDA are used to create data driven strategic recommendations to retain customers who are potential candidate to churn in coming month. 
 
 ## Project Organization
 ------------
